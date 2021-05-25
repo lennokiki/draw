@@ -17,14 +17,14 @@
   }
   
   var globalConfig = {
-    assets: '/assets', // 静态资源路径
-    menusPath: '/theme/menus.json', // 菜单配置路径
-    imagesPath: '/theme/images.json', // 图片配置路径
-    imagePrefixPath: '/theme/images', // 图片统一前缀地址
-    loadingImage: '/assets/images/loading.gif', // 加载动画图片
+    assets: 'assets', // 静态资源路径
+    menusPath: 'theme/menus.json', // 菜单配置路径
+    imagesPath: 'theme/images.json', // 图片配置路径
+    imagePrefixPath: 'theme/images', // 图片统一前缀地址
+    loadingImage: 'assets/images/loading.gif', // 加载动画图片
     defaultBg: 10001,
-    defaultIcon: '/assets/images/icon.png',
-    groupIcon: '/assets/images/group.png'
+    defaultIcon: 'assets/images/icon.png',
+    groupIcon: 'assets/images/group.png'
   }
 
   var trimStart = (function (path) {
