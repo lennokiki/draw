@@ -1,0 +1,36 @@
+html,
+body {
+  width : 100%;
+  height: 100%;
+}
+
+.container {
+  min-height : 500px;
+  min-width  : 800px;
+  overflow   : auto;
+  display    : flex;
+  align-items: center;
+  box-sizing : border-box;
+  width      : 100%;
+  height     : 100%;
+  background : #eaeaea;
+  display    : flex;
+}
+
+.menus {
+  flex        : 0 0 350px;
+  height      : 100%;
+  background  : #fff;
+  margin-right: 10px;
+}
+
+.canvas-wrapper {
+  flex      : 1;
+  height    : 100%;
+  background: url("../assets/images/canvas_bg.jpg") repeat;
+}
+
+.canvas {
+  width : 100%;
+  height: 100%;
+}

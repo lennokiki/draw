@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "label": "画布背景",
+    "type": "menu"
+  },
+  {
+    "id": 2,
+    "label": "图形",
+    "type": "menu"
+  },
+  {
+    "id": 3,
+    "label": "自然",
+    "type": "menu"
+  },
+  {
+    "id": 4,
+    "label": "人物",
+    "type": "menu"
+  },
+  {
+    "id": 5,
+    "label": "节日",
+    "type": "menu"
+  },
+  {
+    "id": 6,
+    "label": "植物",
+    "type": "menu"
+  },
+  {
+    "id": 7,
+    "label": "动物",
+    "type": "menu"
+  },
+  {
+    "id": 8,
+    "label": "建筑",
+    "type": "menu"
+  },
+  {
+    "id": 9,
+    "label": "机械",
+    "type": "menu"
+  },
+  {
+    "id": 10,
+    "label": "其他",
+    "type": "menu"
+  }
+]

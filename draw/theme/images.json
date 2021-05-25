@@ -1,0 +1,333 @@
+[
+  {
+    "id": 10001,
+    "label": "无",
+    "menu": 1,
+    "type": "icon",
+    "bus": "bg",
+    "color": "transparent",
+    "bgType": 1,
+    "thumbnail": "/背景/缩略/无.png",
+    "path": "/背景/原图/无.png"
+  },
+  {
+    "id": 10099,
+    "label": "纯色",
+    "menu": 1,
+    "type": "icon",
+    "bus": "bg",
+    "color": "#ae7f67",
+    "bgType": 2,
+    "thumbnail": "/背景/缩略/无.png",
+    "path": "/背景/原图/无.png"
+  },
+  {
+    "id": 10002,
+    "label": "国风",
+    "menu": 1,
+    "type": "icon",
+    "bus": "bg",
+    "bgType": 3,
+    "thumbnail": "/背景/缩略/国风.jpg",
+    "path": "/背景/原图/国风.jpg"
+  },
+  {
+    "id": 10003,
+    "label": "花布",
+    "menu": 1,
+    "type": "icon",
+    "bus": "bg",
+    "bgType": 3,
+    "thumbnail": "/背景/缩略/花布.jpg",
+    "path": "/背景/原图/花布.jpg"
+  },
+  {
+    "id": 10004,
+    "label": "节日",
+    "menu": 1,
+    "type": "icon",
+    "bus": "bg",
+    "bgType": 3,
+    "thumbnail": "/背景/缩略/节日.jpg",
+    "path": "/背景/原图/节日.jpg"
+  },
+  {
+    "id": 10005,
+    "label": "星空",
+    "menu": 1,
+    "type": "icon",
+    "bus": "bg",
+    "bgType": 3,
+    "thumbnail": "/背景/缩略/星空.png",
+    "path": "/背景/原图/星空.png"
+  },
+  {
+    "id": 10006,
+    "label": "棉花",
+    "menu": 1,
+    "type": "icon",
+    "bus": "bg",
+    "bgType": 3,
+    "thumbnail": "/背景/缩略/棉花.jpg",
+    "path": "/背景/原图/棉花.jpg"
+  },
+  {
+    "id": 10007,
+    "label": "气球",
+    "menu": 1,
+    "type": "icon",
+    "bus": "bg",
+    "bgType": 3,
+    "thumbnail": "/背景/缩略/气球.jpg",
+    "path": "/背景/原图/气球.jpg"
+  },
+  {
+    "id": 10008,
+    "label": "橘子",
+    "menu": 1,
+    "type": "icon",
+    "bus": "bg",
+    "bgType": 3,
+    "thumbnail": "/背景/缩略/橘子.jpg",
+    "path": "/背景/原图/橘子.jpg"
+  },
+  {
+    "id": 10009,
+    "label": "树枝",
+    "menu": 1,
+    "type": "icon",
+    "bus": "bg",
+    "bgType": 3,
+    "thumbnail": "/背景/缩略/树枝.jpg",
+    "path": "/背景/原图/树枝.jpg"
+  },
+  {
+    "id": 10010,
+    "label": "线条",
+    "menu": 1,
+    "type": "icon",
+    "bus": "bg",
+    "bgType": 3,
+    "thumbnail": "/背景/缩略/线条.jpg",
+    "path": "/背景/原图/线条.jpg"
+  },
+  {
+    "id": 10011,
+    "label": "白",
+    "menu": 1,
+    "type": "icon",
+    "bus": "bg",
+    "bgType": 3,
+    "thumbnail": "/背景/缩略/白.jpg",
+    "path": "/背景/原图/白.jpg"
+  },
+  {
+    "id": 10012,
+    "label": "黑",
+    "menu": 1,
+    "type": "icon",
+    "bus": "bg",
+    "bgType": 3,
+    "thumbnail": "/背景/缩略/黑.jpg",
+    "path": "/背景/原图/黑.jpg"
+  },
+  {
+    "id": 30001,
+    "label": "太阳1",
+    "menu": 3,
+    "type": "icon",
+    "bus": "shape",
+    "thumbnail": "/自然/缩略/太阳1.png",
+    "path": "/自然/原图/太阳1.png"
+  },
+  {
+    "id": 30002,
+    "label": "太阳2",
+    "menu": 3,
+    "type": "icon",
+    "bus": "shape",
+    "thumbnail": "/自然/缩略/太阳2.png",
+    "path": "/自然/原图/太阳2.png"
+  },
+  {
+    "id": 30004,
+    "label": "月亮",
+    "menu": 3,
+    "type": "icon",
+    "bus": "shape",
+    "thumbnail": "/自然/缩略/月亮.png",
+    "path": "/自然/原图/月亮.png"
+  },
+  {
+    "id": 30005,
+    "label": "雪花",
+    "menu": 3,
+    "type": "icon",
+    "bus": "shape",
+    "thumbnail": "/自然/缩略/雪花.png",
+    "path": "/自然/原图/雪花.png"
+  },
+  {
+    "id": 40001,
+    "label": "女警",
+    "menu": 4,
+    "type": "icon",
+    "bus": "shape",
+    "thumbnail": "/人物/缩略/女警.png",
+    "path": "/人物/原图/女警.png"
+  },
+  {
+    "id": 40002,
+    "label": "男警",
+    "menu": 4,
+    "type": "icon",
+    "bus": "shape",
+    "thumbnail": "/人物/缩略/男警.png",
+    "path": "/人物/原图/男警.png"
+  },
+  {
+    "id": 40003,
+    "label": "读书",
+    "menu": 4,
+    "type": "icon",
+    "bus": "shape",
+    "thumbnail": "/人物/缩略/读书.png",
+    "path": "/人物/原图/读书.png"
+  },
+  {
+    "id": 40004,
+    "label": "工作",
+    "menu": 4,
+    "type": "icon",
+    "bus": "shape",
+    "thumbnail": "/人物/缩略/工作.png",
+    "path": "/人物/原图/工作.png"
+  },
+  {
+    "id": 50001,
+    "label": "礼物",
+    "menu": 5,
+    "type": "icon",
+    "bus": "bg",
+    "bgType": 3,
+    "thumbnail": "/节日/缩略/礼物.png",
+    "path": "/节日/原图/礼物.png"
+  },
+  {
+    "id": 60001,
+    "label": "铃兰1",
+    "menu": 6,
+    "type": "icon",
+    "bus": "shape",
+    "thumbnail": "/植物/缩略/铃兰1.png",
+    "path": "/植物/原图/铃兰1.png"
+  },
+  {
+    "id": 60002,
+    "label": "铃兰2",
+    "menu": 6,
+    "type": "icon",
+    "bus": "shape",
+    "thumbnail": "/植物/缩略/铃兰2.png",
+    "path": "/植物/原图/铃兰2.png"
+  },
+  {
+    "id": 60003,
+    "label": "向日葵1",
+    "menu": 6,
+    "type": "icon",
+    "bus": "shape",
+    "thumbnail": "/植物/缩略/向日葵1.png",
+    "path": "/植物/原图/向日葵1.png"
+  },
+  {
+    "id": 60004,
+    "label": "向日葵2",
+    "menu": 6,
+    "type": "icon",
+    "bus": "shape",
+    "thumbnail": "/植物/缩略/向日葵2.png",
+    "path": "/植物/原图/向日葵2.png"
+  },
+  {
+    "id": 70001,
+    "label": "熊1",
+    "menu": 7,
+    "type": "icon",
+    "bus": "shape",
+    "thumbnail": "/动物/缩略/熊1.png",
+    "path": "/动物/原图/熊1.png"
+  },
+  {
+    "id": 70002,
+    "label": "熊2",
+    "menu": 7,
+    "type": "icon",
+    "bus": "shape",
+    "thumbnail": "/动物/缩略/熊2.png",
+    "path": "/动物/原图/熊2.png"
+  },
+  {
+    "id": 70003,
+    "label": "熊3",
+    "menu": 7,
+    "type": "icon",
+    "bus": "shape",
+    "thumbnail": "/动物/缩略/熊3.png",
+    "path": "/动物/原图/熊3.png"
+  },
+  {
+    "id": 80001,
+    "label": "楼1",
+    "menu": 8,
+    "type": "icon",
+    "bus": "shape",
+    "thumbnail": "/建筑/缩略/楼1.png",
+    "path": "/建筑/原图/楼1.png"
+  },
+  {
+    "id": 80002,
+    "label": "楼2",
+    "menu": 8,
+    "type": "icon",
+    "bus": "shape",
+    "thumbnail": "/建筑/缩略/楼2.png",
+    "path": "/建筑/原图/楼2.png"
+  },
+  {
+    "id": 80003,
+    "label": "楼3",
+    "menu": 8,
+    "type": "icon",
+    "bus": "shape",
+    "thumbnail": "/建筑/缩略/楼3.png",
+    "path": "/建筑/原图/楼3.png"
+  },
+  {
+    "id": 90001,
+    "label": "飞机1",
+    "menu": 9,
+    "type": "icon",
+    "bus": "shape",
+    "thumbnail": "/机械/缩略/飞机1.png",
+    "path": "/机械/原图/飞机1.png"
+  },
+  {
+    "id": 90002,
+    "label": "飞机2",
+    "menu": 9,
+    "type": "icon",
+    "bus": "shape",
+    "thumbnail": "/机械/缩略/飞机2.png",
+    "path": "/机械/原图/飞机2.png"
+  },
+  {
+    "id": 90003,
+    "label": "皮卡",
+    "menu": 9,
+    "type": "icon",
+    "bus": "shape",
+    "thumbnail": "/机械/缩略/皮卡.png",
+    "path": "/机械/原图/皮卡.png"
+  }
+]

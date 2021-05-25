@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles/reset.css">
+  <link rel="stylesheet" href="styles/index.css">
+  <link rel="stylesheet" href="assets/fonts/iconfont.css">
+  <link rel="stylesheet" href="styles/draw.css">
+  <script src="js/fabric.min.js"></script>
+  <script src="draw.js"></script>
+  <title>礼宾绘制图</title>
+</head>
+<body>
+  <div class="container">
+    <div class="menus" id="menus"></div>
+    <div class="canvas-wrapper" id="wrapper">
+      <canvas id="canvas" class="canvas"></canvas>
+    </div>
+  </div>
+
+  <script>
+    var wrapper = document.getElementById('wrapper')
+    var { width, height } = wrapper.getBoundingClientRect()
+    var options = {
+      menuContainer: 'menus',
+      canvasContainer: 'canvas',
+      wrapper: wrapper,
+      width: width,
+      height: height
+    }
+
+    var draw = new Draw(options)
+  </script>
+</body>
+</html>
